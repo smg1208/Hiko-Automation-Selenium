@@ -2,6 +2,7 @@ from unittest.case import TestCase
 import HtmlTestRunner
 import unittest
 import os
+import time
 
 # HEADING TITLE CONTENT Testcase
 from TopAsia.src.TestCase.Heading_Title_Content.GameLobby import *
